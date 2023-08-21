@@ -16,3 +16,5 @@
 [*환경 데이터 수집용 센서 구축하기 (2)*](https://it.donga.com/103752/)
 
 [*나만의 스마트팜, 실제 구축하기 (1)*](https://it.donga.com/103871/)
+
+<img width="60%" src="https://github.com/makezonefablab/SmartOO/blob/main/img/20230821_190628.jpg?raw=true"></a>
