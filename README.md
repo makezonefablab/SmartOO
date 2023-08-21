@@ -19,8 +19,17 @@
 
 [*7. 나만의 스마트팜, 실제 구축하기 (2)*](https://it.donga.com/104009/)
 
-
+## 참고사진
 
 <img width="100%" src="https://github.com/makezonefablab/SmartOO/blob/main/img/20230821_190628.jpg?raw=true"></a>
 
 <img width="100%" src="https://github.com/makezonefablab/SmartOO/blob/main/img/20230821_190617.jpg?raw=true"></a>
+
+## 앱시트로 만든 앱
+
+<img width="100%" src="https://github.com/makezonefablab/SmartOO/blob/main/img/KakaoTalk_Image_2023-08-21-19-46-26_001.jpeg"></a>
+
+<img width="100%" src="https://github.com/makezonefablab/SmartOO/blob/main/img/KakaoTalk_Image_2023-08-21-19-46-26_002.jpeg"></a>
+
+<img width="100%" src="https://github.com/makezonefablab/SmartOO/blob/main/img/KakaoTalk_Image_2023-08-21-19-46-26_003.jpeg"></a>
+
