@@ -17,4 +17,4 @@
 
 [*나만의 스마트팜, 실제 구축하기 (1)*](https://it.donga.com/103871/)
 
-<img width="60%" src="https://github.com/makezonefablab/SmartOO/blob/main/img/20230821_190628.jpg?raw=true"></a>
+<img width="100%" src="https://github.com/makezonefablab/SmartOO/blob/main/img/20230821_190628.jpg?raw=true"></a>
