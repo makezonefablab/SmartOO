@@ -27,7 +27,7 @@
 
 ## 앱시트로 만든 앱
 
-<img width="33%" src="https://github.com/makezonefablab/SmartOO/blob/main/img/KakaoTalk_Image_2023-08-21-19-46-26_001.jpeg"></a>
-<img width="33%" src="https://github.com/makezonefablab/SmartOO/blob/main/img/KakaoTalk_Image_2023-08-21-19-46-26_002.jpeg"></a>
-<img width="33%" src="https://github.com/makezonefablab/SmartOO/blob/main/img/KakaoTalk_Image_2023-08-21-19-46-26_003.jpeg"></a>
+<img width="30%" src="https://github.com/makezonefablab/SmartOO/blob/main/img/KakaoTalk_Image_2023-08-21-19-46-26_001.jpeg"></a>
+<img width="30%" src="https://github.com/makezonefablab/SmartOO/blob/main/img/KakaoTalk_Image_2023-08-21-19-46-26_002.jpeg"></a>
+<img width="30%" src="https://github.com/makezonefablab/SmartOO/blob/main/img/KakaoTalk_Image_2023-08-21-19-46-26_003.jpeg"></a>
 
